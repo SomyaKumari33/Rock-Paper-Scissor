@@ -1,0 +1,31 @@
+body {
+    background-color: #CCC;
+  }
+
+button{
+    
+    background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 2rem;
+  transition: 100ms;
+    
+    
+}
+.button {
+    
+     display: flex;
+     justify-content: center;
+}
+.result-score {
+    margin-left: .1rem;
+    font-size: .5rem;
+    color: #333;
+  }
+  
+
+
+  
+    
+  
